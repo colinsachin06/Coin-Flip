@@ -1,2 +1,2 @@
 # Coin Flip
-Author - sachin feni
+Author - sachin feni.
